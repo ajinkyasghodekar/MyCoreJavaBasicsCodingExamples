@@ -1,0 +1,6 @@
+package ObjectOperation;
+
+class CloneEx {
+    
+}
+  
