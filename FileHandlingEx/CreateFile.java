@@ -6,5 +6,7 @@ public class CreateFile {
         File f = new File("D:\\Java_Ex\\FileHandlingEx\\TextFiles", "T1.txt");
         f.createNewFile();
         System.err.println(f.exists());
+        System.out.println(f.isFile());
+        System.out.println(f.length());
     }
 }
