@@ -1,4 +1,20 @@
-Ajinkya
-a
-Ajinkya is an Engineer...
-ABC
+d
+Hello Ajinkya...
+This is an example for BufferWriter in java file handling.
+ABCDEF
+d
+Hello Ajinkya...
+This is an example for BufferWriter in java file handling.
+ABCDEF
+d
+Hello Ajinkya...
+This is an example for BufferWriter in java file handling.
+ABCDEF
+d
+Hello Ajinkya...
+This is an example for BufferWriter in java file handling.
+ABCDEF
+d
+Hello Ajinkya...
+This is an example for BufferWriter in java file handling.
+ABCDEF
