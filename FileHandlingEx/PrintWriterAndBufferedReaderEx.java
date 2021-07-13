@@ -4,8 +4,6 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-import javax.swing.plaf.TreeUI;
-
 public class PrintWriterAndBufferedReaderEx {
     public static void main(String[] args) throws IOException{
         FileWriter fw = new FileWriter("D:\\Java_Ex\\FileHandlingEx\\TextFiles\\PrintEx.txt", true);
