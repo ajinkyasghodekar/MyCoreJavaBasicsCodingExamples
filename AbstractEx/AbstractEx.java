@@ -1,3 +1,5 @@
+package AbstractEx;
+
 abstract class P {
     abstract void m1();
 }
